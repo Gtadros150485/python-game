@@ -16,7 +16,6 @@ class AlienInvasion:
         self.ship = Ship(self)
     def run_game(self):
         while True:
-
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     sys.exit()

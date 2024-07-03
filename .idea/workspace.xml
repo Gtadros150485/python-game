@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7bc8e6-3d9b-4765-b945-e0e450cba538" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-shooting-game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
+    <list default="true" id="2f7bc8e6-3d9b-4765-b945-e0e450cba538" name="Changes" comment="unfinished game but is having the basics">
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +90,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720020532914</updated>
     </task>
+    <task id="LOCAL-00001" summary="unfinished game but is having the basics">
+      <option name="closed" value="true" />
+      <created>1720029501150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720029501150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unfinished game but is having the basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="unfinished game but is having the basics" />
   </component>
 </project>
